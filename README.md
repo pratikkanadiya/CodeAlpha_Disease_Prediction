@@ -129,10 +129,6 @@ After running `python main.py`, the pipeline generates:
 - Python 3.8+
 - See [requirements.txt](requirements.txt) for full dependency list
 
-## License
-
-This project is licensed under the MIT License.
-
 ## Acknowledgements
 
 - [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/)
