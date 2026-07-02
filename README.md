@@ -4,7 +4,6 @@
   <img src="https://img.shields.io/badge/Python-3.8%2B-blue?logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/scikit--learn-1.3%2B-orange?logo=scikit-learn&logoColor=white" alt="scikit-learn">
   <img src="https://img.shields.io/badge/XGBoost-2.0%2B-brightgreen?logo=xgboost" alt="XGBoost">
-  <img src="https://img.shields.io/badge/License-MIT-green" alt="License">
 </p>
 
 A machine learning pipeline that predicts the possibility of **Heart Disease**, **Diabetes**, and **Breast Cancer** using patient clinical data. Four classification algorithms are trained, tuned, and compared across all three datasets.
