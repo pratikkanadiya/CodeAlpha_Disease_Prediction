@@ -49,20 +49,6 @@ CodeAlpha_Disease/
 └── README.md
 ```
 
-## Quick Start
-
-```bash
-# Clone the repository
-git clone https://github.com/Krutarth-Talaviya-0712/CodeAlpha_Disease_Prediction.git
-cd CodeAlpha_Disease
-
-# Install dependencies
-pip install -r requirements.txt
-
-# Run the full pipeline
-python main.py
-```
-
 ## Pipeline Overview
 
 ```
