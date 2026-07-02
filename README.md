@@ -45,7 +45,6 @@ CodeAlpha_Disease/
 │   └── reports/
 ├── main.py
 ├── requirements.txt
-├── .gitignore
 └── README.md
 ```
 
